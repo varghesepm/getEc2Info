@@ -1,4 +1,4 @@
-### get_EC2instance_details_using_boto3
+### get_ec2_instance_details.py
 Retrieve EC2 instance details using Boto3-client
 
 ### Usage
